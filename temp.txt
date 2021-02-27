@@ -1,0 +1,13 @@
+git push
+git add index.html index.css
+git checkout -b feature
+
+git chekout feture
+git add about.cs
+
+
+git checkout master
+
+git rebase
+
+git clone https://github.com/itneel97/ThreeLayerAssignment.git
